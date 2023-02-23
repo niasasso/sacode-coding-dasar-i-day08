@@ -2,7 +2,7 @@
 
 ## Link Demo di GitHub Pages
 
-Silahkan lihat melalui link berikut ini :
+Silahkan lihat melalui link berikut ini :<br>
 https://niasasso.github.io/sacode-coding-dasar-i-day08/
 
 ## Screenshot hasil Belajar
