@@ -1,2 +1,12 @@
-# sacode-coding-dasar-i-day08
-Desain Banner gunakan Bootstrap 5.X
+# Belajar Membuat Banner Website
+
+## Link Demo di GitHub Pages
+
+Silahkan lihat melalui link berikut ini :
+
+## Screenshot hasil Belajar
+
+Berikut ini merupakan hasil belajar membuat Banner
+
+<img src="./assets/img/divider/src.png" 
+
